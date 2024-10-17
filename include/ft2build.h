@@ -34,7 +34,7 @@
 #ifndef FT2BUILD_H_
 #define FT2BUILD_H_
 
-#include <freetype2/freetype/config/ftheader.h>
+#include </opt/devkitpro/portlibs/ppc/include/freetype2/freetype/config/ftheader.h>
 
 #endif /* FT2BUILD_H_ */
 
